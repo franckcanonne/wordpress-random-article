@@ -5,6 +5,7 @@ Plugin URI: https://factotum.bzh/boutique-wordpress/
 Description: Affiche un article au hasard sur une page.
 Version: 1.0
 Author: Franck Canonne
+Author Email: franck.canonne@gmail.com
 Author URI: https://factotum.bzh
 License: GPL2
 */
