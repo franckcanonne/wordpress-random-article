@@ -1,10 +1,12 @@
 <?php
 /*
 Plugin Name: Extension pour Article au Hasard
+Plugin URI: https://factotum.bzh/boutique-wordpress/
 Description: Affiche un article au hasard sur une page.
 Version: 1.0
 Author: Franck Canonne
 Author URI: https://factotum.bzh
+License: GPL2
 */
 
 // Ajout du shortcode [article_au_hasard]
